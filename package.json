@@ -22,7 +22,7 @@
     "transform": {
       "^.+\\.tsx?$": "ts-jest"
     },
-    "testRegex": ".*\\.spec.ts$",
+    "testRegex": ".*\\.spec.(ts|js)$",
     "moduleFileExtensions": [
       "ts",
       "tsx",
